@@ -47,44 +47,44 @@
                 <td> --- </td>
             </tr>
             <tr>
-                <td>Notifications</td>
+                <td>Rezone Land</td>
                 <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/eb91f53146d2af6a376d0740396ec9a8c20a1afd/68747470733a2f2f70726f67726573732d6261722e6465762f35302f"><img src="https://camo.githubusercontent.com/eb91f53146d2af6a376d0740396ec9a8c20a1afd/68747470733a2f2f70726f67726573732d6261722e6465762f35302f" alt="Progress" data-canonical-src="https://progress-bar.dev/50/" style="max-width:100%;"></a>
-                </td>
-                <td>Needs refactoring and email digests</td>
-            </tr>
-            <tr>
-                <td>Population</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f"><img src="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Races &amp; Units</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/82bc5a0901b2e0ae3cd1f90225256f2d0a8ed429/68747470733a2f2f70726f67726573732d6261722e6465762f36302f"><img src="https://camo.githubusercontent.com/82bc5a0901b2e0ae3cd1f90225256f2d0a8ed429/68747470733a2f2f70726f67726573732d6261722e6465762f36302f" alt="Progress" data-canonical-src="https://progress-bar.dev/60/" style="max-width:100%;"></a>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Resources</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2f27b6ff293d53a573dae1654ba66894f42b257b/68747470733a2f2f70726f67726573732d6261722e6465762f39352f"><img src="https://camo.githubusercontent.com/2f27b6ff293d53a573dae1654ba66894f42b257b/68747470733a2f2f70726f67726573732d6261722e6465762f39352f" alt="Progress" data-canonical-src="https://progress-bar.dev/95/" style="max-width:100%;"></a>
-                </td>
-                <td>Tech points</td>
-            </tr>
-            <tr>
-                <td>Wonders</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/82822e6743c427d6aebcceff36fa8707876d73be/68747470733a2f2f70726f67726573732d6261722e6465762f302f"><img src="https://camo.githubusercontent.com/82822e6743c427d6aebcceff36fa8707876d73be/68747470733a2f2f70726f67726573732d6261722e6465762f302f" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:100%;"></a>
+                    <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
                 </td>
                 <td>Everything</td>
             </tr>
             <tr>
-                <td>Tech</td>
+                <td>Improvements</td>
                 <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/82822e6743c427d6aebcceff36fa8707876d73be/68747470733a2f2f70726f67726573732d6261722e6465762f302f"><img src="https://camo.githubusercontent.com/82822e6743c427d6aebcceff36fa8707876d73be/68747470733a2f2f70726f67726573732d6261722e6465762f302f" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:100%;"></a>
+                    <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
+                </td>
+                <td>Everything</td>
+            </tr>
+            <tr>
+                <td>Black Ops</td>
+                <td>
+                    <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
+                </td>
+                <td>Everything</td>
+            </tr>
+            <tr>
+                <td>Invade</td>
+                <td>
+                    <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
+                </td>
+                <td>Everything</td>
+            </tr>
+            <tr>
+                <td>Magic</td>
+                <td>
+                    <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
+                </td>
+                <td>Everything</td>
+            </tr>
+            <tr>
+                <td>Espionage</td>
+                <td>
+                    <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
                 </td>
                 <td>Everything</td>
             </tr>
