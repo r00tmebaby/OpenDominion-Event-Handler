@@ -23,7 +23,7 @@
       <td><h3>Explore Land Module</h3></td>
       <td><img src='https://i.gyazo.com/748122bafd72e3b37efe6e5b320dfa41.png'></td>
 	</tr>
-<table>
+</table>
 <h3> Train Military</h3>
 <img src='https://i.gyazo.com/9d8e23fb56d0a4ad940ef53bc6fbfb3f.png'>
 
