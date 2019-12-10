@@ -38,7 +38,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td  valign='top' align='center'>
+		<td  valign='top' align='center' colspan='2'>
 			<h3>Construct Buildings </h3>
 			<img src='https://i.gyazo.com/c77de6aecda17c42e598e131382cb258.png'>
 		</td>
