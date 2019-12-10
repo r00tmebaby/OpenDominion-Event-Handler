@@ -27,7 +27,7 @@
             </tr>
 
         </tbody>
-    </table>
+</table>
 <h3>Functions</h3>
 <p>This indicates which functionalities are implemented</p>
     <table>
