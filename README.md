@@ -119,6 +119,20 @@
             </td>
             <td> Everything </td>
         </tr>
+		<tr>
+            <td>Train Maximum Possibile</td>
+            <td>
+                <img src="https://progress-bar.dev/30/" alt="Progress" data-canonical-src="https://progress-bar.dev/30/" style="max-width:30%;">
+            </td>
+            <td> Needs an improvement as curently works properly only with military </td>
+        </tr>
+		<tr>
+            <td>Event Repeater</td>
+            <td>
+                <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
+            </td>
+            <td> --- </td>
+        </tr>
     </tbody>
 </table>
 <h3>Functionality</h3>
