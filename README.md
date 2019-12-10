@@ -12,7 +12,7 @@
 
 <table>
     <tr>
-		<td colspan='2'>
+		<td colspan='2' valign='top'>
 			<h3>The UI look </h3>
 			<img src='https://i.gyazo.com/14f58bee87be1247bf498a0fa3c3a29d.png'>
 		</td>
