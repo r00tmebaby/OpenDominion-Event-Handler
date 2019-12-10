@@ -18,15 +18,19 @@
 
 <h3> System Settings</h3>
 <img src='https://i.gyazo.com/2b6f37a29e033de86278e44a1ef49950.png'>
-
-<h3>Explore Land Module</h3>
-<img src='https://i.gyazo.com/748122bafd72e3b37efe6e5b320dfa41.png'>
+<table>
+    <tr>
+      <td><h3>Explore Land Module</h3></td>
+      <td><img src='https://i.gyazo.com/748122bafd72e3b37efe6e5b320dfa41.png'></td>
+	</tr>
+<table>
+<h3> Train Military</h3>
+<img src='https://i.gyazo.com/9d8e23fb56d0a4ad940ef53bc6fbfb3f.png'>
 
 <h3>Construct Buildings </h3>
 <img src='https://i.gyazo.com/c77de6aecda17c42e598e131382cb258.png'>
 
-<h3> Train Military</h3>
-<img src='https://i.gyazo.com/9d8e23fb56d0a4ad940ef53bc6fbfb3f.png'>
+
 
 <h3>System</h3>
 <p>This indicates which system features are implemented and the current development stage of the others</p>
