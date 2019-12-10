@@ -51,13 +51,6 @@
             <td> --- </td>
         </tr>
 		<tr>
-            <td>Logging</td>
-            <td>
-                <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
-            </td>
-            <td> Everything </td>
-        </tr>
-		<tr>
             <td>Fake Clicks</td>
             <td>
                 <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
@@ -65,7 +58,21 @@
             <td> --- </td>
         </tr>
 		<tr>
+            <td>Change Browser Agent</td>
+            <td>
+                <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
+            </td>
+            <td> --- </td>
+        </tr>
+		<tr>
             <td>Random Delays</td>
+            <td>
+                <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
+            </td>
+            <td> --- </td>
+        </tr>
+		<tr>
+            <td>Event Repeater</td>
             <td>
                 <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
             </td>
@@ -86,18 +93,11 @@
             <td> Adding Odarena races</td>
         </tr>
 		<tr>
-            <td>Proxy</td>
+            <td>Train Maximum Possibile</td>
             <td>
-                <img src="https://progress-bar.dev/10/" alt="Progress" data-canonical-src="https://progress-bar.dev/10/" style="max-width:10%;">
+                <img src="https://progress-bar.dev/30/" alt="Progress" data-canonical-src="https://progress-bar.dev/30/" style="max-width:30%;">
             </td>
-            <td> Most of it</td>
-        </tr>
-		<tr>
-            <td>Change Browser Agent</td>
-            <td>
-                <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
-            </td>
-            <td> --- </td>
+            <td> Needs an improvement as curently works properly only with military </td>
         </tr>
 		<tr>
             <td>Notification System</td>
@@ -105,6 +105,20 @@
                 <img src="https://progress-bar.dev/15/" alt="Progress" data-canonical-src="https://progress-bar.dev/15/" style="max-width:15%;">
             </td>
             <td> Most of it </td>
+        </tr>
+		<tr>
+            <td>Proxy</td>
+            <td>
+                <img src="https://progress-bar.dev/10/" alt="Progress" data-canonical-src="https://progress-bar.dev/10/" style="max-width:10%;">
+            </td>
+            <td> Most of it</td>
+        </tr>
+		<tr>
+            <td>Logging</td>
+            <td>
+                <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
+            </td>
+            <td> Everything </td>
         </tr>
 		<tr>
             <td>Load Events</td>
@@ -120,20 +134,6 @@
             </td>
             <td> Everything </td>
         </tr>
-		<tr>
-            <td>Train Maximum Possibile</td>
-            <td>
-                <img src="https://progress-bar.dev/30/" alt="Progress" data-canonical-src="https://progress-bar.dev/30/" style="max-width:30%;">
-            </td>
-            <td> Needs an improvement as curently works properly only with military </td>
-        </tr>
-		<tr>
-            <td>Event Repeater</td>
-            <td>
-                <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
-            </td>
-            <td> --- </td>
-        </tr>
     </tbody>
 </table>
 <h3>Functionality</h3>
@@ -148,13 +148,6 @@
         </thead>
         <tbody>
             <tr>
-                <td>Construction</td>
-                <td>
-                    <img src="https://progress-bar.dev/98/" alt="Progress" data-canonical-src="https://progress-bar.dev/98/" style="max-width:98%;">
-                </td>
-                <td>Place the home land based on the selected race</td>
-            </tr>
-            <tr>
                 <td>Explore Land</td>
                 <td>
                     <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
@@ -167,6 +160,13 @@
                     <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
                 </td>
                 <td> --- </td>
+            </tr>
+			<tr>
+                <td>Construction</td>
+                <td>
+                    <img src="https://progress-bar.dev/98/" alt="Progress" data-canonical-src="https://progress-bar.dev/98/" style="max-width:98%;">
+                </td>
+                <td>Place the home land based on the selected race</td>
             </tr>
             <tr>
                 <td>Rezone Land</td>
