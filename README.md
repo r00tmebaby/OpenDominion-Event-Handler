@@ -25,6 +25,20 @@
                 </td>
                 <td> --- </td>
             </tr>
+
+        </tbody>
+    </table>
+<h3>Functions</h3>
+<p>This indicates which functionalities are implemented</p>
+    <table>
+        <thead>
+            <tr>
+                <th>Functionality</th>
+                <th>Status</th>
+                <th>To do</th>
+            </tr>
+        </thead>
+        <tbody>
             <tr>
                 <td>Construction</td>
                 <td>
@@ -85,187 +99,6 @@
                 <td>Espionage</td>
                 <td>
                     <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
-                </td>
-                <td>Everything</td>
-            </tr>
-        </tbody>
-    </table>
-<h3><a id="user-content-pages" class="anchor" aria-hidden="true" href="#pages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Pages</h3>
-<p>This indicates which pages are functional. Some pages will be restyled or revisited upon building different functionality later.</p>
-    <table>
-        <thead>
-            <tr>
-                <th>Page</th>
-                <th>Status</th>
-                <th>To do</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Status</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f"><img src="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Advisors</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/eea21ac7531d596c69694268d85042bae72287a9/68747470733a2f2f70726f67726573732d6261722e6465762f39302f"><img src="https://camo.githubusercontent.com/eea21ac7531d596c69694268d85042bae72287a9/68747470733a2f2f70726f67726573732d6261722e6465762f39302f" alt="Progress" data-canonical-src="https://progress-bar.dev/90/" style="max-width:100%;"></a>
-                </td>
-                <td>Rankings advisor</td>
-            </tr>
-            <tr>
-                <td>Daily Bonuses</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f"><img src="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Exploration</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f"><img src="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Construction</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f"><img src="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Destroy Buildings</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f"><img src="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Land Rezoning</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f"><img src="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Castle Improvements</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2f27b6ff293d53a573dae1654ba66894f42b257b/68747470733a2f2f70726f67726573732d6261722e6465762f39352f"><img src="https://camo.githubusercontent.com/2f27b6ff293d53a573dae1654ba66894f42b257b/68747470733a2f2f70726f67726573732d6261722e6465762f39352f" alt="Progress" data-canonical-src="https://progress-bar.dev/95/" style="max-width:100%;"></a>
-                </td>
-                <td>Towers spell damage reduction</td>
-            </tr>
-            <tr>
-                <td>National Bank</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f"><img src="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Military Training</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f"><img src="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Release Troops</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f"><img src="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Invading</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f"><img src="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Magic</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/82bc5a0901b2e0ae3cd1f90225256f2d0a8ed429/68747470733a2f2f70726f67726573732d6261722e6465762f36302f"><img src="https://camo.githubusercontent.com/82bc5a0901b2e0ae3cd1f90225256f2d0a8ed429/68747470733a2f2f70726f67726573732d6261722e6465762f36302f" alt="Progress" data-canonical-src="https://progress-bar.dev/60/" style="max-width:100%;"></a>
-                </td>
-                <td>Black ops</td>
-            </tr>
-            <tr>
-                <td>Espionage</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/77878eadfcc596963aa70a103c5cd2b67be1a8cc/68747470733a2f2f70726f67726573732d6261722e6465762f33352f"><img src="https://camo.githubusercontent.com/77878eadfcc596963aa70a103c5cd2b67be1a8cc/68747470733a2f2f70726f67726573732d6261722e6465762f33352f" alt="Progress" data-canonical-src="https://progress-bar.dev/35/" style="max-width:100%;"></a>
-                </td>
-                <td>Black ops</td>
-            </tr>
-            <tr>
-                <td>Messages</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/82822e6743c427d6aebcceff36fa8707876d73be/68747470733a2f2f70726f67726573732d6261722e6465762f302f"><img src="https://camo.githubusercontent.com/82822e6743c427d6aebcceff36fa8707876d73be/68747470733a2f2f70726f67726573732d6261722e6465762f302f" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:100%;"></a>
-                </td>
-                <td>Everything</td>
-            </tr>
-            <tr>
-                <td>Realm Council</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/eb91f53146d2af6a376d0740396ec9a8c20a1afd/68747470733a2f2f70726f67726573732d6261722e6465762f35302f"><img src="https://camo.githubusercontent.com/eb91f53146d2af6a376d0740396ec9a8c20a1afd/68747470733a2f2f70726f67726573732d6261722e6465762f35302f" alt="Progress" data-canonical-src="https://progress-bar.dev/50/" style="max-width:100%;"></a>
-                </td>
-                <td>Needs refactoring, editing posts, and moderation</td>
-            </tr>
-            <tr>
-                <td>Op Center</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2f27b6ff293d53a573dae1654ba66894f42b257b/68747470733a2f2f70726f67726573732d6261722e6465762f39352f"><img src="https://camo.githubusercontent.com/2f27b6ff293d53a573dae1654ba66894f42b257b/68747470733a2f2f70726f67726573732d6261722e6465762f39352f" alt="Progress" data-canonical-src="https://progress-bar.dev/95/" style="max-width:100%;"></a>
-                </td>
-                <td>Calculations for (estimate) DP</td>
-            </tr>
-            <tr>
-                <td>Government</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/82822e6743c427d6aebcceff36fa8707876d73be/68747470733a2f2f70726f67726573732d6261722e6465762f302f"><img src="https://camo.githubusercontent.com/82822e6743c427d6aebcceff36fa8707876d73be/68747470733a2f2f70726f67726573732d6261722e6465762f302f" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:100%;"></a>
-                </td>
-                <td>Everything</td>
-            </tr>
-            <tr>
-                <td>Diplomacy</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/82822e6743c427d6aebcceff36fa8707876d73be/68747470733a2f2f70726f67726573732d6261722e6465762f302f"><img src="https://camo.githubusercontent.com/82822e6743c427d6aebcceff36fa8707876d73be/68747470733a2f2f70726f67726573732d6261722e6465762f302f" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:100%;"></a>
-                </td>
-                <td>Everything</td>
-            </tr>
-            <tr>
-                <td>Realm Page</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f"><img src="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Rankings</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f"><img src="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Town Crier</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2f27b6ff293d53a573dae1654ba66894f42b257b/68747470733a2f2f70726f67726573732d6261722e6465762f39352f"><img src="https://camo.githubusercontent.com/2f27b6ff293d53a573dae1654ba66894f42b257b/68747470733a2f2f70726f67726573732d6261722e6465762f39352f" alt="Progress" data-canonical-src="https://progress-bar.dev/95/" style="max-width:100%;"></a>
-                </td>
-                <td>Black ops reports</td>
-            </tr>
-            <tr>
-                <td>Valhalla</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d194ec5bf59b2e8817e6cd0d8205d26b6926e3bd/68747470733a2f2f70726f67726573732d6261722e6465762f32302f"><img src="https://camo.githubusercontent.com/d194ec5bf59b2e8817e6cd0d8205d26b6926e3bd/68747470733a2f2f70726f67726573732d6261722e6465762f32302f" alt="Progress" data-canonical-src="https://progress-bar.dev/20/" style="max-width:100%;"></a>
-                </td>
-                <td>More categories</td>
-            </tr>
-            <tr>
-                <td>Scribes / Manual</td>
-                <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/82822e6743c427d6aebcceff36fa8707876d73be/68747470733a2f2f70726f67726573732d6261722e6465762f302f"><img src="https://camo.githubusercontent.com/82822e6743c427d6aebcceff36fa8707876d73be/68747470733a2f2f70726f67726573732d6261722e6465762f302f" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:100%;"></a>
                 </td>
                 <td>Everything</td>
             </tr>
