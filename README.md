@@ -1,6 +1,7 @@
 <article class="markdown-body entry-content p-5" itemprop="text">
     <p align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/WaveHack/OpenDominion/resources/logos/opendominion.png"><img src="https://raw.githubusercontent.com/WaveHack/OpenDominion/resources/logos/opendominion.png" alt="OpenDominion" style="max-width:100%;"></a>
+        <a target="_blank" rel="noopener noreferrer" href="https://beta.opendominion.net/">
+		<img src="https://i.imgur.com/DaA2Nec.png" alt="OpenDominion" style="max-width:100%;"></a>
     </p>
 
 <p>OpenDominion is a free and open-source clone of Dominion, an online text-based and persistent browser-based (PBBG) fantasy war game. OpenDominion is written in PHP on the <a href="https://laravel.com" rel="nofollow">Laravel</a> framework.</p>
