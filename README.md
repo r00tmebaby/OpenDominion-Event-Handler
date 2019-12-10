@@ -98,7 +98,7 @@
             <td>
                 <img src="https://progress-bar.dev/15/" alt="Progress" data-canonical-src="https://progress-bar.dev/15/" style="max-width:15%;">
             </td>
-            <td> Everythig </td>
+            <td> Most of it </td>
         </tr>
 		<tr>
             <td>Load Events</td>
