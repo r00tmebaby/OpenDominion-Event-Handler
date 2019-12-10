@@ -11,22 +11,21 @@
 
 <table>
     <thead>
-            <tr>
-                <th>System</th>
-                <th>Status</th>
-                <th>To do</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Authentication</td>
-                <td>
-                    <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
-                </td>
-                <td> --- </td>
-            </tr>
-
-        </tbody>
+        <tr>
+            <th>System</th>
+            <th>Status</th>
+            <th>To do</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Authentication</td>
+            <td>
+                <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
+            </td>
+            <td> --- </td>
+        </tr>
+    </tbody>
 </table>
 <h3>Functions</h3>
 <p>This indicates which functionalities are implemented</p>
