@@ -44,6 +44,48 @@
             </td>
             <td> --- </td>
         </tr>
+		<tr>
+            <td>Logging</td>
+            <td>
+                <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
+            </td>
+            <td> Everything </td>
+        </tr>
+		<tr>
+            <td>Fake Clicks</td>
+            <td>
+                <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
+            </td>
+            <td> None </td>
+        </tr>
+		<tr>
+            <td>Random Delays</td>
+            <td>
+                <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
+            </td>
+            <td> None </td>
+        </tr>
+		<tr>
+            <td>Select Server</td>
+            <td>
+                <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
+            </td>
+            <td> None </td>
+        </tr>
+		<tr>
+            <td>Select Race</td>
+            <td>
+                <img src="https://progress-bar.dev/45/" alt="Progress" data-canonical-src="https://progress-bar.dev/45/" style="max-width:45%;">
+            </td>
+            <td> Adding Odarena races</td>
+        </tr>
+		<tr>
+            <td>Proxy</td>
+            <td>
+                <img src="https://progress-bar.dev/10/" alt="Progress" data-canonical-src="https://progress-bar.dev/10/" style="max-width:10%;">
+            </td>
+            <td> Most of it</td>
+        </tr>
     </tbody>
 </table>
 <h3>Functions</h3>
