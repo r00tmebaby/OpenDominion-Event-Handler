@@ -56,21 +56,21 @@
             <td>
                 <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
             </td>
-            <td> None </td>
+            <td> --- </td>
         </tr>
 		<tr>
             <td>Random Delays</td>
             <td>
                 <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
             </td>
-            <td> None </td>
+            <td> --- </td>
         </tr>
 		<tr>
             <td>Select Server</td>
             <td>
                 <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
             </td>
-            <td> None </td>
+            <td> --- </td>
         </tr>
 		<tr>
             <td>Select Race</td>
@@ -85,6 +85,34 @@
                 <img src="https://progress-bar.dev/10/" alt="Progress" data-canonical-src="https://progress-bar.dev/10/" style="max-width:10%;">
             </td>
             <td> Most of it</td>
+        </tr>
+		<tr>
+            <td>Change Browser Agent</td>
+            <td>
+                <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
+            </td>
+            <td> --- </td>
+        </tr>
+		<tr>
+            <td>Notification System</td>
+            <td>
+                <img src="https://progress-bar.dev/15/" alt="Progress" data-canonical-src="https://progress-bar.dev/15/" style="max-width:15%;">
+            </td>
+            <td> Everythig </td>
+        </tr>
+		<tr>
+            <td>Load Events</td>
+            <td>
+                <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
+            </td>
+            <td> Everythig </td>
+        </tr>
+		<tr>
+            <td>Help Section</td>
+            <td>
+                <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
+            </td>
+            <td> Everythig </td>
         </tr>
     </tbody>
 </table>
