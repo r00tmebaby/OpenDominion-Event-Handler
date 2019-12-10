@@ -28,6 +28,9 @@
 <h3> Train Military</h3>
 <img src='https://i.gyazo.com/9d8e23fb56d0a4ad940ef53bc6fbfb3f.png'>
 
+<h3>System</h3>
+<p>This indicates which system features are implemented and the current development stage of the others</p>
+
 <table>
     <thead>
         <tr>
@@ -116,7 +119,7 @@
         </tr>
     </tbody>
 </table>
-<h3>Functions</h3>
+<h3>Functionality</h3>
 <p>This indicates which functionalities are implemented</p>
     <table>
         <thead>
