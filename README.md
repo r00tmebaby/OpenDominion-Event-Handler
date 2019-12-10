@@ -7,7 +7,25 @@
 <p>The original Dominion, now defunct, was a game from Kamikaze Games which ran from about 2000 to 2012 until <a href="https://dominion.opendominion.net/GameOver.htm" rel="nofollow">stopping indefinitely</a>.</p>
 <p>Original intro text: <sup><a href="#notes-1">[1]</a></sup></p>
 
+<p>This release is about a Dominion game event handler or shortly called bot, that can help you out growing faster without havig a lot of sleepless nights</p> It is designed to work with both domains already running the game <a href='https://odarena.com/'>https://odarena.com/</a> and <a href='https://beta.opendominion.net/'>https://beta.opendominion.net/</a>
 
+<h3>The UI look </h3>
+<img src='https://i.gyazo.com/14f58bee87be1247bf498a0fa3c3a29d.png'>
+
+<h3>Authentication</h3>
+<img src='https://i.gyazo.com/abf1cfae85efac91ee38b695f23d4c68.png'>
+
+<h3> System Settings</h3>
+<img src='https://i.gyazo.com/2b6f37a29e033de86278e44a1ef49950.png'>
+
+<h3>Explore Land Module</h3>
+<img src='https://i.gyazo.com/748122bafd72e3b37efe6e5b320dfa41.png'>
+
+<h3>Construct Buildings </h3>
+<img src='https://i.gyazo.com/c77de6aecda17c42e598e131382cb258.png'>
+
+<h3> Train Military</h3>
+<img src='https://i.gyazo.com/9d8e23fb56d0a4ad940ef53bc6fbfb3f.png'>
 
 <table>
     <thead>
