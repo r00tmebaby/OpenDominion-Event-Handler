@@ -6,6 +6,9 @@
 <p>OpenDominion is a free and open-source clone of Dominion, an online text-based and persistent browser-based (PBBG) fantasy war game. OpenDominion is written in PHP on the <a href="https://laravel.com" rel="nofollow">Laravel</a> framework.</p>
 <p>The original Dominion, now defunct, was a game from Kamikaze Games which ran from about 2000 to 2012 until <a href="https://dominion.opendominion.net/GameOver.htm" rel="nofollow">stopping indefinitely</a>.</p>
 <p>Original intro text: <sup><a href="#notes-1">[1]</a></sup></p>
+
+
+
 <table>
     <thead>
             <tr>
@@ -20,28 +23,28 @@
                 <td>
                     <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
                 </td>
-                <td>To </td>
+                <td> --- </td>
             </tr>
             <tr>
-                <td>Buildings</td>
+                <td>Construction</td>
                 <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/eea21ac7531d596c69694268d85042bae72287a9/68747470733a2f2f70726f67726573732d6261722e6465762f39302f"><img src="https://camo.githubusercontent.com/eea21ac7531d596c69694268d85042bae72287a9/68747470733a2f2f70726f67726573732d6261722e6465762f39302f" alt="Progress" data-canonical-src="https://progress-bar.dev/90/" style="max-width:100%;"></a>
+                    <img src="https://progress-bar.dev/98/" alt="Progress" data-canonical-src="https://progress-bar.dev/98/" style="max-width:98%;">
                 </td>
-                <td>Schools, and black-op bonuses for Masonry, Forest Haven and Dock</td>
+                <td>Place the home land based on the selected race</td>
             </tr>
             <tr>
-                <td>Land</td>
+                <td>Explore Land</td>
                 <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f"><img src="https://camo.githubusercontent.com/086c7e9f995ca911dbac6f5b04a17cf1223fbdad/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
+                    <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
                 </td>
-                <td></td>
+                <td> --- </td>
             </tr>
             <tr>
-                <td>Heroes</td>
+                <td>Train Military</td>
                 <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/82822e6743c427d6aebcceff36fa8707876d73be/68747470733a2f2f70726f67726573732d6261722e6465762f302f"><img src="https://camo.githubusercontent.com/82822e6743c427d6aebcceff36fa8707876d73be/68747470733a2f2f70726f67726573732d6261722e6465762f302f" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:100%;"></a>
+                    <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
                 </td>
-                <td>Everything</td>
+                <td> --- </td>
             </tr>
             <tr>
                 <td>Notifications</td>
