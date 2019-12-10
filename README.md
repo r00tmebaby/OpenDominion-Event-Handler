@@ -3,18 +3,10 @@
     <p align="center">
         <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/WaveHack/OpenDominion/resources/logos/opendominion.png"><img src="https://raw.githubusercontent.com/WaveHack/OpenDominion/resources/logos/opendominion.png" alt="OpenDominion" style="max-width:100%;"></a>
     </p>
-    <p><em>Note: OpenDominion is still in development. Some features of the game have not been implemented yet.</em></p>
 
     <p>OpenDominion is a free and open-source clone of Dominion, an online text-based and persistent browser-based (PBBG) fantasy war game. OpenDominion is written in PHP on the <a href="https://laravel.com" rel="nofollow">Laravel</a> framework.</p>
     <p>The original Dominion, now defunct, was a game from Kamikaze Games which ran from about 2000 to 2012 until <a href="https://dominion.opendominion.net/GameOver.htm" rel="nofollow">stopping indefinitely</a>.</p>
     <p>Original intro text: <sup><a href="#notes-1">[1]</a></sup></p>
-    <blockquote>
-        <p>You have reached the online game Dominion. What is Dominion? It's a TOTALLY FREE online fantasy war game. You take control of a plot of land in a realm consisting of a group of other players. With your dominion and allied players, you combat the forces of good or evil using military, magic, or espionage. The goal? To finish at the top of the heap. To make your dominion and your realm the most powerful in the land, and to crush your enemies.</p>
-    </blockquote>
-    <h2><a id="user-content-progress" class="anchor" aria-hidden="true" href="#progress"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Progress</h2>
-    <p>Although in development, OpenDominion is already playable as an open beta. See the <a href="#links">links</a> section below.</p>
-    <p>Status bars displayed here show the current state of a system or page. Pretty much everything that has some status is already present in one way or another on the open beta.</p>
-    <h3><a id="user-content-systems" class="anchor" aria-hidden="true" href="#systems"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Systems</h3>
     <table>
         <thead>
             <tr>
@@ -290,7 +282,7 @@
         <li><a href="https://discord.gg/mFk2wZT" rel="nofollow">Discord</a>
             <ul>
                 <li>This will be the main place for out of game communication, development talk and game announcements.</li>
-            </ul>
+            </ul> 
         </li>
         <li><a href="https://github.com/WaveHack/OpenDominion/issues">Issue tracker</a></li>
         <li><a href="https://opendominion.miraheze.org" rel="nofollow">Wiki</a></li>
