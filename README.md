@@ -12,33 +12,33 @@
 
 <table>
     <tr>
-		<td colspan='2' valign='top'>
+		<td colspan='2' valign='top' align='center'>
 			<h3>The UI look </h3>
 			<img src='https://i.gyazo.com/14f58bee87be1247bf498a0fa3c3a29d.png'>
 		</td>
 	</tr>
 	<tr>
-		<td  valign='top'>
+		<td  valign='top' align='center'>
 			<h3>Authentication</h3>
 			<img src='https://i.gyazo.com/abf1cfae85efac91ee38b695f23d4c68.png'>
 		</td>
-	    <td  valign='top'>
+	    <td  valign='top' align='center'>
 			<h3> System Settings</h3>
 			<img src='https://i.gyazo.com/2b6f37a29e033de86278e44a1ef49950.png'>
 		</td>
 	</tr>
 	<tr>
-	    <td  valign='top'>
+	    <td  valign='top' align='center'>
 			<h3>Explore Land Module</h3>
 			<img src='https://i.gyazo.com/748122bafd72e3b37efe6e5b320dfa41.png'>
 		</td>
-		<td  valign='top'>
+		<td  valign='top' align='center'>
 			<h3> Train Military</h3>
 			<img src='https://i.gyazo.com/9d8e23fb56d0a4ad940ef53bc6fbfb3f.png'>
 		</td>
 	</tr>
 	<tr>
-		<td  valign='top'>
+		<td  valign='top' align='center'>
 			<h3>Construct Buildings </h3>
 			<img src='https://i.gyazo.com/c77de6aecda17c42e598e131382cb258.png'>
 		</td>
