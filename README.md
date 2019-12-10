@@ -4,11 +4,11 @@
         <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/WaveHack/OpenDominion/resources/logos/opendominion.png"><img src="https://raw.githubusercontent.com/WaveHack/OpenDominion/resources/logos/opendominion.png" alt="OpenDominion" style="max-width:100%;"></a>
     </p>
 
-    <p>OpenDominion is a free and open-source clone of Dominion, an online text-based and persistent browser-based (PBBG) fantasy war game. OpenDominion is written in PHP on the <a href="https://laravel.com" rel="nofollow">Laravel</a> framework.</p>
-    <p>The original Dominion, now defunct, was a game from Kamikaze Games which ran from about 2000 to 2012 until <a href="https://dominion.opendominion.net/GameOver.htm" rel="nofollow">stopping indefinitely</a>.</p>
-    <p>Original intro text: <sup><a href="#notes-1">[1]</a></sup></p>
-    <table>
-        <thead>
+<p>OpenDominion is a free and open-source clone of Dominion, an online text-based and persistent browser-based (PBBG) fantasy war game. OpenDominion is written in PHP on the <a href="https://laravel.com" rel="nofollow">Laravel</a> framework.</p>
+<p>The original Dominion, now defunct, was a game from Kamikaze Games which ran from about 2000 to 2012 until <a href="https://dominion.opendominion.net/GameOver.htm" rel="nofollow">stopping indefinitely</a>.</p>
+<p>Original intro text: <sup><a href="#notes-1">[1]</a></sup></p>
+<table>
+    <thead>
             <tr>
                 <th>System</th>
                 <th>Status</th>
