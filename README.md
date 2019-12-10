@@ -110,14 +110,14 @@
             <td>
                 <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
             </td>
-            <td> Everythig </td>
+            <td> Everything </td>
         </tr>
 		<tr>
             <td>Help Section</td>
             <td>
                 <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
             </td>
-            <td> Everythig </td>
+            <td> Everything </td>
         </tr>
     </tbody>
 </table>
