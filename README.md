@@ -7,8 +7,10 @@
 <p>The original Dominion, now defunct, was a game from Kamikaze Games which ran from about 2000 to 2012 until <a href="https://dominion.opendominion.net/GameOver.htm" rel="nofollow">stopping indefinitely</a>.</p>
 <p>Original intro text: <sup><a href="#notes-1">[1]</a></sup></p>
 
+<h4>
 <p>This release is about a Dominion game event handler that I have created or shortly called bot. This program that can help you out growing faster without havig a lot of sleepless nights</p> 
 <p>It is designed to work with both domains currently running the game <a href='https://odarena.com/'>https://odarena.com/</a> and <a href='https://beta.opendominion.net/'>https://beta.opendominion.net/</a></p>
+</h4>
 
 <h3>The UI look </h3>
 <img src='https://i.gyazo.com/14f58bee87be1247bf498a0fa3c3a29d.png'>
