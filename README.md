@@ -1,4 +1,3 @@
-<img src='https://raw.githubusercontent.com/WaveHack/OpenDominion/resources/logos/opendominion.png'>
 <article class="markdown-body entry-content p-5" itemprop="text">
     <p align="center">
         <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/WaveHack/OpenDominion/resources/logos/opendominion.png"><img src="https://raw.githubusercontent.com/WaveHack/OpenDominion/resources/logos/opendominion.png" alt="OpenDominion" style="max-width:100%;"></a>
