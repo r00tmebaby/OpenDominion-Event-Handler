@@ -18,7 +18,7 @@
             <tr>
                 <td>Authentication</td>
                 <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2f27b6ff293d53a573dae1654ba66894f42b257b/68747470733a2f2f70726f67726573732d6261722e6465762f39352f"><img src="https://camo.githubusercontent.com/2f27b6ff293d53a573dae1654ba66894f42b257b/68747470733a2f2f70726f67726573732d6261722e6465762f39352f" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;"></a>
+                    <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
                 </td>
                 <td>To </td>
             </tr>
