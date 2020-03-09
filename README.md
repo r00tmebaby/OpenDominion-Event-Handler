@@ -111,7 +111,7 @@
             <td>
                 <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
             </td>
-            <td> Most of it</td>
+            <td> ---- </td> 
         </tr>
 		<tr>
             <td>Logging</td>
