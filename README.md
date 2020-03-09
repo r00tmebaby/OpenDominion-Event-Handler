@@ -95,9 +95,9 @@
 		<tr>
             <td>Train Maximum Possibile</td>
             <td>
-                <img src="https://progress-bar.dev/30/" alt="Progress" data-canonical-src="https://progress-bar.dev/60/" style="max-width:60%;">
+                <img src="https://progress-bar.dev/60/" alt="Progress" data-canonical-src="https://progress-bar.dev/60/" style="max-width:60%;">
             </td>
-            <td> Needs an improvement as curently works properly only with military </td>
+            <td> Needs an improvement as works only with Odarena </td>
         </tr>
 		<tr>
             <td>Notification System</td>
