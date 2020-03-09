@@ -95,7 +95,7 @@
 		<tr>
             <td>Train Maximum Possibile</td>
             <td>
-                <img src="https://progress-bar.dev/30/" alt="Progress" data-canonical-src="https://progress-bar.dev/30/" style="max-width:30%;">
+                <img src="https://progress-bar.dev/30/" alt="Progress" data-canonical-src="https://progress-bar.dev/60/" style="max-width:60%;">
             </td>
             <td> Needs an improvement as curently works properly only with military </td>
         </tr>
@@ -109,7 +109,7 @@
 		<tr>
             <td>Proxy</td>
             <td>
-                <img src="https://progress-bar.dev/10/" alt="Progress" data-canonical-src="https://progress-bar.dev/10/" style="max-width:10%;">
+                <img src="https://progress-bar.dev/10/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
             </td>
             <td> Most of it</td>
         </tr>
@@ -164,7 +164,7 @@
 			<tr>
                 <td>Construction</td>
                 <td>
-                    <img src="https://progress-bar.dev/98/" alt="Progress" data-canonical-src="https://progress-bar.dev/98/" style="max-width:98%;">
+                    <img src="https://progress-bar.dev/98/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
                 </td>
                 <td>Place the home land based on the selected race</td>
             </tr>
@@ -199,7 +199,7 @@
             <tr>
                 <td>Magic</td>
                 <td>
-                    <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/0/" style="max-width:0%;">
+                    <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/70/" style="max-width:70%;">
                 </td>
                 <td>Everything</td>
             </tr>
