@@ -109,7 +109,7 @@
 		<tr>
             <td>Proxy</td>
             <td>
-                <img src="https://progress-bar.dev/10/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
+                <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
             </td>
             <td> Most of it</td>
         </tr>
@@ -164,7 +164,7 @@
 			<tr>
                 <td>Construction</td>
                 <td>
-                    <img src="https://progress-bar.dev/98/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
+                    <img src="https://progress-bar.dev/100/" alt="Progress" data-canonical-src="https://progress-bar.dev/100/" style="max-width:100%;">
                 </td>
                 <td>Place the home land based on the selected race</td>
             </tr>
@@ -199,7 +199,7 @@
             <tr>
                 <td>Magic</td>
                 <td>
-                    <img src="https://progress-bar.dev/0/" alt="Progress" data-canonical-src="https://progress-bar.dev/70/" style="max-width:70%;">
+                    <img src="https://progress-bar.dev/70/" alt="Progress" data-canonical-src="https://progress-bar.dev/70/" style="max-width:70%;">
                 </td>
                 <td>Everything</td>
             </tr>
